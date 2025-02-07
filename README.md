@@ -8,7 +8,7 @@
 </a>
 
 ## How To Contact Me
-- **Email**: me@littlegiqnt.com
+- **Email**: me@giqnt.dev
 - **Discord**: giqnt
 <a href="https://discord.com/users/454927000490999809">
   <img src="https://lanyard.cnrad.dev/api/454927000490999809?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
